@@ -1,2 +1,2 @@
 # Btrees
-Implementing Btrees as an array in C
+Implementing Btrees using an array in C
